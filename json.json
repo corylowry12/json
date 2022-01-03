@@ -1,10 +1,10 @@
 {
-    "latestVersion": "9.0.5",
-    "latestVersionCode": 116,
+    "latestVersion": "9.0.6",
+    "latestVersionCode": 117,
     "url": "https://play.google.com/store/apps/details?id=com.cory.hourcalculator",
     "releaseNotes": [
-      "- First evolution",
-      "- Second evolution",
-      "- Bug fixes"
+      "- Added ability to set the theme when follow system theme is chosen, to black or gray, whichever you choose",
+      "- Added dialog to notify you when app update is available",
+      "- App will now display a message when colored nav bar is enabled or disabled"
     ]
   }
