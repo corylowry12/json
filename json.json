@@ -1,9 +1,9 @@
 {
-    "latestVersion": "9.2.4",
-    "latestVersionCode": 126,
+    "latestVersion": "9.2.5",
+    "latestVersionCode": 127,
     "url": "https://play.google.com/store/apps/details?id=com.cory.hourcalculator",
     "releaseNotes": [
-      "- Tons of changes",
+      "- A few bug fixes",
       "- Check out patch notes to see all the details"
     ]
   }
